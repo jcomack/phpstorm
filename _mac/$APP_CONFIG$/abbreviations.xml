@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ToggleCompletionHintsAction">
+        <abbreviation name="hint" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
