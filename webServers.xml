@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e0cce015-bc01-4002-92ca-bcda185a22f5" name="Onderduikmuseum Staging" url="https://museum-14073.stine-ams.servebolt.cloud">
+        <fileTransfer accessType="SFTP" host="stine-ams.servebolt.cloud" port="1022" sshConfigId="fabc53ae-61ee-409c-bd97-ecfa62e816c6" sshConfig="museum_14073@stine-ams.servebolt.cloud:1022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
