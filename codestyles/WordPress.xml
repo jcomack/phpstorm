@@ -12,6 +12,7 @@
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="2" />
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,kbd,q,s,samp,small,span,strike,strong,sub,sup,textarea,tt,u,var" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
@@ -52,6 +53,11 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
