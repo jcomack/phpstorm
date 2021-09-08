@@ -38,6 +38,7 @@
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </ScssCodeStyleSettings>
   <codeStyleSettings language="CSS">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
