@@ -3,8 +3,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -19,6 +17,6 @@
     <option name="highlightColor" value="7a99cb" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="63a10e9b:1672c6f4c47:-8000" />
-    <option name="version" value="6.8.0.1" />
+    <option name="version" value="6.10.1" />
   </component>
 </application>
