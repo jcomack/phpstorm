@@ -1,0 +1,17 @@
+<templateSet group="PHPUnit">
+  <template name="punit" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot; ?&gt;&#10;&lt;phpunit bootstrap=&quot;$BOOTSTRAP$&quot;&gt;&#10;&#10;    &lt;testsuites&gt;&#10;        &lt;testsuite name=&quot;$NAME$&quot;&gt;&#10;            &lt;directory&gt;$DIR$&lt;/directory&gt;&#10;        &lt;/testsuite&gt;&#10;    &lt;/testsuites&gt;&#10;&#10;&lt;/phpunit&gt;&#10;$END$" description="Initialize the PHPUnit XML configuration" toReformat="false" toShortenFQNames="true">
+    <variable name="BOOTSTRAP" expression="" defaultValue="&quot;./vendor/autoload.php&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DIR" expression="" defaultValue="&quot;./tests&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="aaa" value="// Arrange&#10;&#10;// Act&#10;&#10;// Assert" description="Adds the Arrange, Act and Assert comments" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+</templateSet>

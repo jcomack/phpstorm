@@ -1,0 +1,36 @@
+<templateSet group="PHP">
+  <template name="_c" value="public function __construct($ARGS$)&#10;{&#10;    $END$&#10;}" description="Constructor" toReformat="true" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name=".roundu" value="/**&#10; * Rounds up the passed value by an optional decimal amount&#10; *&#10; * @param $value&#10; * @param int $precision&#10; * @return float&#10; */&#10;private function roundUp($value, $precision = 2)&#10;{&#10;    $pow = pow(10, $precision);&#10;&#10;    return ceil($value * $pow) / $pow;&#10;}" description="Adds a round up function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name=".roundd" value="/**&#10; * Rounds down the passed value by an optional decimal amount&#10; *&#10; * @param $value&#10; * @param int $precision&#10; * @return float&#10; */&#10;private function roundDown($value, $precision = 2)&#10;{&#10;    $pow = pow(10, $precision);&#10;&#10;    return floor($value * $pow) / $pow;&#10;}" description="Adds a round down function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="_ca" value="require __DIR__ . '/vendor/autoload.php';" description="Automatically adds Composer autoload" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try {&#10;&#9;// Your code here...&#10;&#9;$END$&#10;} catch ( \Exception $exception ) {&#10;&#9;&#10;}" description="Try/Catch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dd" value="echo '&lt;pre&gt;';&#10;print_r($ARGS$);&#10;echo '&lt;/pre&gt;';&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

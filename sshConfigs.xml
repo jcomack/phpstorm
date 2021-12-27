@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="stine-ams.servebolt.cloud" id="fabc53ae-61ee-409c-bd97-ecfa62e816c6" port="1022" nameFormat="DESCRIPTIVE" username="museum_14073" />
+    </configs>
+  </component>
+</application>

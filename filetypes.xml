@@ -1,0 +1,21 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
+    <extensionMap>
+      <mapping pattern=".no-sync" type="PLAIN_TEXT" />
+      <mapping pattern=".niet-verwijderen" type="PLAIN_TEXT" />
+      <mapping pattern="Holidays" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern=".docker/nginx/conf.d" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".redirects" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping pattern="conf.d" type="nginx" />
+      <mapping ext="d" type="nginx" />
+      <removed_mapping ext="d" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping ext="jst" type="EJS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>
