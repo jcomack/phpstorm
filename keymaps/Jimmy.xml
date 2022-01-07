@@ -34,6 +34,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="GotoRow" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
@@ -46,6 +50,10 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="ParameterInfo" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="ShowSettings" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -62,4 +70,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Terminal.ClearBuffer" />
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
