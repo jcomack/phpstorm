@@ -20,6 +20,11 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="Vue" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="TodoConfiguration">
