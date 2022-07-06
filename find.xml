@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="No node_modules" />
     <option name="defaultScopeName" value="No node_modules" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="No node_modules" />
-    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
