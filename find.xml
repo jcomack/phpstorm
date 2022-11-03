@@ -19,10 +19,10 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.twig</mask>
-    <mask>*.vue</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
