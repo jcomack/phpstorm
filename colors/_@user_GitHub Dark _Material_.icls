@@ -4,7 +4,7 @@
     <property name="created">2021-04-11T20:14:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2022-11-23T10:43:39</property>
+    <property name="modified">2022-11-23T11:07:47</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -14,16 +14,15 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -2152,7 +2151,6 @@
     <option name="SPEL.BACKGROUND">
       <value />
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="f97583" />
