@@ -4,7 +4,7 @@
     <property name="created">2021-04-11T20:14:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2022-11-23T15:33:19</property>
+    <property name="modified">2022-11-24T10:38:33</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -223,7 +223,7 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="79b8ff" />
+        <option name="FOREGROUND" value="466f97" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -238,7 +238,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fdaeb7" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -246,9 +246,15 @@
         <option name="FOREGROUND" value="959da5" />
       </value>
     </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6cdb37" />
+        <option name="BACKGROUND" value="458500" />
+      </value>
+    </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="85e89d" />
+        <option name="FOREGROUND" value="337244" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -258,7 +264,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e1e4e8" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -280,6 +286,12 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="c8e1ff" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
