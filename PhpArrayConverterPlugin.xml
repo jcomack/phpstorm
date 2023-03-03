@@ -1,0 +1,6 @@
+<application>
+  <component name="jp.freeapps.intellij.plugin.phparray.settings.AppSettingsState">
+    <option name="appendComma" value="true" />
+    <option name="useBraket" value="true" />
+  </component>
+</application>
