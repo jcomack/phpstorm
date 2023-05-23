@@ -20,9 +20,9 @@
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
