@@ -1,0 +1,10 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="php.code.vision.hierarchy.limit" value="100" />
+        <entry key="php.code.vision.usages.limit" value="100" />
+      </map>
+    </option>
+  </component>
+</application>
