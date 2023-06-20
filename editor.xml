@@ -39,7 +39,7 @@
         <option value="Vue" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value=".inheritors" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
