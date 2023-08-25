@@ -163,6 +163,7 @@
   <template name="input" value="&lt;input type=&quot;$VAR0$&quot;/&gt;" description="&lt;input type=&quot;...&quot;/&gt;" toReformat="false" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
     </context>
