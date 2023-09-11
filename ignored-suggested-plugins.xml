@@ -4,6 +4,7 @@
       <list>
         <option value="org.intellij.plugins.postcss" />
         <option value="org.jetbrains.plugins.stylus" />
+        <option value="com.intellij.kubernetes" />
       </list>
     </option>
   </component>
