@@ -3,6 +3,7 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="false" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
